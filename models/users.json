@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": 1,
+        "firstName": "Alexis Aubrey",
+        "lastName": "Brusola",
+        "email": "alexisaubrey805@gmail.com",
+        "password": "A@ubrey8052000",
+        "createdAt": "November 11, 2023 2:58"
+    },
+    {
+        "user_id": 2,
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@gmail.com",
+        "password": "johndoe123",
+        "createdAt": "November 11, 2023 2:58"
+    }
+]

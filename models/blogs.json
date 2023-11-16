@@ -1,0 +1,19 @@
+[
+    {
+        "blog_id": 1,
+        "blog_owner_id": 1,
+        "blog_title": "Blog 1",
+        "blog_image": "image1.jpg",
+        "blog_body": "asdasdasdjasjhdgajhsdjhagsdjhasgdjhagjhbqwwejhqbrl;whjkljhgowurtoqehr;klchloqwybiahbernlfqybfriluybflcinulqwoiuerbgwoiyerb oiw;coeiyrbpoiwyborviweoncixuweoribvgowiyeoiwmueoxiurwoibroviwoicwoimerxowieburcweioqwshjashjkajkllksjddfxcbvxnbvkjshfuyijfjkshdfjhxmnbvkjhgsdiuweiujkhgsfjhghjsdfghffghjfghjk",
+        "dateCreated": "November 11, 2023 4:05PM"
+
+    },
+    {
+        "blog_id": 2,
+        "blog_owner_id": 2,
+        "blog_title": "Blog 2",
+        "blog_image": "image2.jpg",
+        "blog_body": "asdasdasdjasjhdgajhsdjhagsdjhasgdjhagjhbqwwejhqbrl;whjkljhgowurtoqehr;klchloqwybiahbernlfqybfriluybflcinulqwoiuerbgwoiyerb oiw;coeiyrbpoiwyborviweoncixuweoribvgowiyeoiwmueoxiurwoibroviwoicwoimerxowieburcweioqwshjashjkajkllksjddfxcbvxnbvkjshfuyijfjkshdfjhxmnbvkjhgsdiuweiujkhgsfjhghjsdfghffghjfghjk",
+        "dateCreated": "November 11, 2023 4:05PM"
+    }
+]
